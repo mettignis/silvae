@@ -11,7 +11,7 @@ Live: https://silvae-library.vercel.app
 
 The production app runs on Vercel with Supabase for authentication, data, and file storage.
 
-[Open Silvae](https://silvae-library.vercel.app) · [Report an issue](https://github.com/MettiFire/silvae/issues)
+[Open Silvae](https://silvae-library.vercel.app) · [Report an issue](https://github.com/mettignis/silvae/issues)
 
 ## 📚 Features 
 
@@ -58,7 +58,7 @@ Use **Node.js 24 or later** to run the TypeScript tests with Node’s native typ
 stripping. The optional reader prototypes also require Python 3.10+.
 
 ```sh
-git clone https://github.com/MettiFire/silvae.git
+git clone https://github.com/mettignis/silvae.git
 cd silvae
 npm install
 cp .env.example .env.local

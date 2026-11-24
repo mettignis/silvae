@@ -24,7 +24,7 @@ cached. Upstream timeout is eight seconds. These are per-instance limits, not a
 global distributed rate limiter.
 
 Deploy the `services/catalogue` root to this Vercel project when changing service
-code. Use `MettiFire/silvae` main or deploy source files with the Vercel connector.
+code. Use `mettignis/silvae` main or deploy source files with the Vercel connector.
 App changes require a separate Lovable Publish. This service does not replace
 the main application or the existing personal website project.
 
